@@ -1,0 +1,59 @@
+/* Inserta tu código aqui */
+/*ul,form{
+	margin-top:10%;
+}*/
+*{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 98%;
+}
+.bgnav{
+	background-color: #e1e0e0;
+}
+ul{
+	color:black;
+}
+p{
+	font-size:100%;
+}
+hr{
+	color:black;
+}
+mark{
+	background-color: #e1e0e0;
+	color:black;
+}
+li{
+	list-style-type: none;
+	font-family: 'Open Sans', sans-serif;
+}
+.navmove, button{
+	padding-top:2%;
+}
+.navmove2{
+	padding-top:8%;
+}
+.fecha{
+	background-color: #e1e0e0;
+	margin-top:4%;
+	padding-top:9%;
+	padding-bottom:10%;
+	font-size: 120%
+}
+@media screen and (max-width: 600px) {
+	.fecha{
+	background-color: #e1e0e0;
+	padding-top: 4%;
+	padding-bottom:3%;
+	padding-right:15%;
+	padding-left:10%;
+}
+	.ftabajo{
+		clear:left;
+	}
+	.navmove{
+		padding-top:10%;
+	}
+}
+.inblock{
+
+}
